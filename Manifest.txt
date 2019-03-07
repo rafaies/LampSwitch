@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: LampSwitch
+Permissions: sandbox
+Codebase: https://rafaies.github.io/LampSwitch
+Application-Name: Lamp Switch
